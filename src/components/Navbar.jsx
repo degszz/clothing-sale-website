@@ -49,9 +49,9 @@ export const NavScrollExample = ({
                                 delay={{ show: 10, hide: 1 }}
                                 overlay={renderToolTip}
                             >
-                                <Navbar.Brand style={{ cursor: 'pointer' }}>Clothing Sale Logo</Navbar.Brand>
+                                <Navbar.Brand style={{ cursor: 'pointer' }}>Clothing Logo</Navbar.Brand>
                             </OverlayTrigger>
-                            <NavDropdown style={{ fontSize: '22px' }} title="Dropdown" id="collapsible-nav-dropdown">
+                            <NavDropdown className='navDropdown' style={{ fontSize: '22px' }} title="Dropdown" id="collapsible-nav-dropdown">
                                 <NavDropdown.Item href="#SHIRT">
                                     Clothes for Sale
                                 </NavDropdown.Item>

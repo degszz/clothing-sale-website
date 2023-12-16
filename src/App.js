@@ -6,7 +6,6 @@ import { ProductList } from './components/ProductList';
 import Container from 'react-bootstrap/Container';
 import { useAuth0 } from "@auth0/auth0-react";
 import Spinner from 'react-bootstrap/Spinner';
-import Badge from 'react-bootstrap/Badge';
 
 import './App.css';
 

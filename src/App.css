@@ -7,6 +7,7 @@
   flex-grow: 1;
 }
 
+
 /* CART */
 .container-icon {
   position: relative;
@@ -291,6 +292,10 @@ textarea {
 
 /* FOOTER RESPONSIVE */
 @media screen and (max-width:900px) {
+  .navDropdown{
+    display: none;
+  }
+
   .container-cart-products {
     right: -4em;
     width: 250px;
