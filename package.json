@@ -2,7 +2,7 @@
   "name": "clothes",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://github.com/degszz/clothing-sale-website.git",
+  "homepage":"https://degszz.github.io/clothing-sale-website/",
   "dependencies": {
     "@auth0/auth0-react": "^2.2.4",
     "@testing-library/jest-dom": "^5.17.0",
