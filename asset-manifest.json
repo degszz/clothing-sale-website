@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/clothing-sale-website/static/css/main.e3e1266a.css",
-    "main.js": "/clothing-sale-website/static/js/main.312220ac.js",
-    "static/media/shirt.png": "/clothing-sale-website/static/media/shirt.dd9045facc272ebacce0.png",
-    "static/media/hoodie.png": "/clothing-sale-website/static/media/hoodie.37cebdc6338a21c61ce9.png",
-    "static/media/logo.jpg": "/clothing-sale-website/static/media/logo.8a3aaa573cad9de3e2b9.jpg",
-    "index.html": "/clothing-sale-website/index.html",
-    "main.e3e1266a.css.map": "/clothing-sale-website/static/css/main.e3e1266a.css.map",
-    "main.312220ac.js.map": "/clothing-sale-website/static/js/main.312220ac.js.map"
+    "main.css": "https://degszz.github.io/clothing-sale-website/build/static/css/main.e3e1266a.css",
+    "main.js": "https://degszz.github.io/clothing-sale-website/build/static/js/main.7fd7a1f7.js",
+    "static/media/shirt.png": "https://degszz.github.io/clothing-sale-website/build/static/media/shirt.dd9045facc272ebacce0.png",
+    "static/media/hoodie.png": "https://degszz.github.io/clothing-sale-website/build/static/media/hoodie.37cebdc6338a21c61ce9.png",
+    "static/media/logo.jpg": "https://degszz.github.io/clothing-sale-website/build/static/media/logo.8a3aaa573cad9de3e2b9.jpg",
+    "index.html": "https://degszz.github.io/clothing-sale-website/build/index.html",
+    "main.e3e1266a.css.map": "https://degszz.github.io/clothing-sale-website/build/static/css/main.e3e1266a.css.map",
+    "main.7fd7a1f7.js.map": "https://degszz.github.io/clothing-sale-website/build/static/js/main.7fd7a1f7.js.map"
   },
   "entrypoints": [
     "static/css/main.e3e1266a.css",
-    "static/js/main.312220ac.js"
+    "static/js/main.7fd7a1f7.js"
   ]
 }
