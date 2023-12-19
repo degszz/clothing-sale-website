@@ -14,7 +14,7 @@ root.render(
   <Auth0Provider
     domain={domain}
     clientId={clientId}
-    redirect_uri= {window.location.origin || process.env.PUBLIC_URL}
+    redirect_uri= {window.location.origin}
   >
     <App />
   </Auth0Provider>,
